@@ -7,7 +7,7 @@
 - Paula Thomas
 
 ## Deployed Link:
-[Deployed Link](http://deploymentappphp-env.ees7a4yivx.us-east-1.elasticbeanstalk.com/)
+[Deployed PHP Application Link](http://deploymentappphp-env.ees7a4yivx.us-east-1.elasticbeanstalk.com/)
 
 ## Steps on cretaing deployment environment:
 
@@ -42,6 +42,14 @@
 ![Screen Screen](https://raw.githubusercontent.com/sadhikari07/deployment-app-php/master/assets/screen15.png)
 ![Screen Screen](https://raw.githubusercontent.com/sadhikari07/deployment-app-php/master/assets/screen16.png)
 
+
+# Adding a Build stage 
+![alt_text](https://github.com/river-ceanne/deployment-app-php/blob/master/assets/Screen%20Shot%202019-07-17%20at%2011.36.46%20AM.png)
+![alt_text](https://github.com/river-ceanne/deployment-app-php/blob/master/assets/Screen%20Shot%202019-07-17%20at%2011.37.25%20AM.png)
+![alt_text](https://github.com/river-ceanne/deployment-app-php/blob/master/assets/Screen%20Shot%202019-07-17%20at%2011.37.34%20AM.png)
+![alt_text](https://github.com/river-ceanne/deployment-app-php/blob/master/assets/Screen%20Shot%202019-07-17%20at%2011.38.04%20AM.png)
+![alt_text](https://github.com/river-ceanne/deployment-app-php/blob/master/assets/Screen%20Shot%202019-07-17%20at%2011.40.39%20AM.png)
+![alt_text](https://github.com/river-ceanne/deployment-app-php/blob/master/assets/Screen%20Shot%202019-07-17%20at%2011.42.34%20AM.png)
 
  
 
