@@ -4,6 +4,7 @@
 
   $talker = new Talker('Hi, there');
 
-  echo $talker->message;
+  // echo $talker->message;
+  echo "Hello World!";
 
 ?>
